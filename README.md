@@ -18,7 +18,7 @@
 
 ###  Example Node tree for MaterialBuilder
 
-![alt text](https://raw.githubusercontent.com/eglaubauf/Maya_materialBuildArnold/master/images/Tree.png "The Tree created by one of the Scripts")
+![alt text](https://raw.githubusercontent.com/eglaubauf/Maya_materialBuildRedshift/master/images/Tree.png "The Tree created by one of the Scripts")
 
 ### Installation:
 
