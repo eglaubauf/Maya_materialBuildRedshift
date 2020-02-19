@@ -1,4 +1,8 @@
-## A MaterialBuilder Script for Redshift in Autodesks Maya 
+## A MaterialBuilder Script for Redshift in Autodesks Maya
+
+### Development stopped
+
+This plugin will not be developed any further. Feel free to use the code for your purpose.
 
 ### Features
 
@@ -14,7 +18,7 @@
   - displace
   - bump
 - The strings to look for can easily be changed at the bottom of each script
-- A shelf is provided in the shelves folder 
+- A shelf is provided in the shelves folder
 
 ###  Example Node tree for MaterialBuilder
 
@@ -22,7 +26,7 @@
 
 ### Installation:
 
-1. Create a new Folder called 'materialBuildRedshift' at this location: C:\Users\<User>\Documents\maya\2019\scripts 
+1. Create a new Folder called 'materialBuildRedshift' at this location: C:\Users\<User>\Documents\maya\2019\scripts
 2. Copy the content from the provided scripts folder into the newly created folder
 3. To access the shelf copy the file  shelf_MaterialBuildArnold.mel to your shelves directory (C:\Users\<user>\Documents\maya\2019\prefs\shelves)
 4. Optionally you can create your shelf yourself via the following python-command:
@@ -40,7 +44,7 @@ mb.open()
 
 ### Notes:
 
-All of the scripts are free of charge for free use, commercial or non commercial whatsoever. 
+All of the scripts are free of charge for free use, commercial or non commercial whatsoever.
 But this scripts may brake your workflow.
 
 ### Contact/Issues/Features/Questions
